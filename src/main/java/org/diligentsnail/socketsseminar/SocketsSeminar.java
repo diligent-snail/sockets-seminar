@@ -139,6 +139,9 @@ public class SocketsSeminar {
 
 
 
+	// 1. Git установлен
+	// 2. Git настроен
+	// 3. Аккаунт на GitHub
 	private long gitИGithub;
 
 
@@ -197,6 +200,9 @@ public class SocketsSeminar {
 
 
 
+	// tcp, udp, http, https = tls + http, ftp, ssh, telnet, dns
+	// ip, ipv6, wifi, ethernet
+	// OSI, TCP/IP
 	private int какиеСетевыеПротоколыВыЗнаете;
 
 
